@@ -1,1 +1,1 @@
-# hangmanhelper.github.io
+# HangmanHelper
