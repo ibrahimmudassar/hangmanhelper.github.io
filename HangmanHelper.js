@@ -1,4 +1,4 @@
-import {words} from '/WordBank.js';
+import {words} from 'WordBank.js';
 
 export class HangmanHelper {
     
