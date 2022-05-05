@@ -1,4 +1,4 @@
-import {HangmanHelper} from 'HangmanHelper.js';
+import {HangmanHelper} from './HangmanHelper.js';
 
 function myFunction()
 {
