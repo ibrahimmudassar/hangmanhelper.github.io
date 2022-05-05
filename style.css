@@ -1,0 +1,51 @@
+.container-fluid
+{
+    padding-top: 25px;
+    text-align: center;
+}
+
+body {
+    background: black;
+    color: green;
+    font-family: 'Spectral', serif;
+}
+
+h1 {
+    color: green;
+}
+
+#button
+{
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    font-size: 50px;
+    padding: 0 50px 0 50px;
+    transition-duration: 0.4s;
+}
+
+#button:hover
+{
+    background-color: white;
+    color: black;
+
+}
+
+#input, #exclude
+{
+    background-color: black;
+    color: green;
+    border: 1px solid green;
+    padding: 10px 10px 10px 10px;
+    font-size: 20px;
+}
+
+#large
+{
+    padding-bottom: 50px;
+}
+
+#Enter
+{
+    padding-top: 50px;
+}
