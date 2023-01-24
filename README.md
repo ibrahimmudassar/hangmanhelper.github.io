@@ -22,7 +22,7 @@ This input will include letter and non-letter inputs to simulate possible letter
 - HELPS
 - HELIX
 
-### Exlcude
+### Exclude
 
 Exclude will take the letters that you give and remove all words that include any of those letters
 
