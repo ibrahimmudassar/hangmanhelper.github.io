@@ -1,7 +1,5 @@
 # Hangman Helper
 
-[Click here to visit the site.](https://ibrahimmudassar.github.io/HangmanHelper/)
-
 This tool allows you to find the answer to a prompt from the 400k most common words in the english language.
 Also gives you a list of letters that are your next best guesses
 
